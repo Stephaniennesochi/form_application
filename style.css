@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+    align-items: center;
+    background-color: lightcyan;
+    border: 1px solid black;
+    border-radius:10px;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: 600;
+    border-width: 2cap;
+    
+
+
+}
+button{
+    height: 40px;
+    width: 110px;
+    color: black;
+    background-color: lightseagreen;
+    transition: 0.2s;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 600;
+}
+button:hover{
+    background-color: darkgray;
+    
+}
+h1{
+    color: lightseagreen;
+}
