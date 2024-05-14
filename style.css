@@ -1,83 +1,31 @@
-#input-box{
-    border-right: 0;
-    border-top: 0;
-    border-left: 0;
-    border-bottom: 2px solid black;
-    outline: none;
-    width: 300px ;
-    background-color: lightslategray;
-}
-form{
-    background-color: gray;
-    padding: 16px;
-    border: 1px 1px solid black;
-    border-radius: 5px;
-    margin-left: auto;
-    margin-right: auto;
-    height: 650px;
-    width: 350px;
-}
-#submit-btn{
-    padding: 10px 12px ;
-    background-color:lightskyblue;
-    color: brown;
+.container{
+    text-align: center;
+    align-items: center;
+    background-color: lightcyan;
     border: 1px solid black;
-    outline: none;
-    opacity: 0.8;
-    position: relative;
-    left: 120px;
-    top: 27px;
-    font-size: 20px;
-    font-weight: 500;
-    border-radius: 6px;
-}                      
-p{
+    border-radius:10px;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: 600;
+    border-width: 2cap;
+    
+
+
+}
+button{
+    height: 40px;
+    width: 110px;
+    color: black;
+    background-color: lightseagreen;
+    transition: 0.2s;
+    cursor: pointer;
     font-size: 20px;
     font-weight: 600;
-    text-align: justify;
+}
+button:hover{
+    background-color: darkgray;
+    
 }
 h1{
-    text-align: center;
-    font-size: 36px;
+    color: lightseagreen;
 }
-
-
-
-
-body{
-    margin: 0;
-}
-
-
-#head-icon{
-    background-color:blue;
-    padding: 20px;
-}
-a{
-    color: white;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
